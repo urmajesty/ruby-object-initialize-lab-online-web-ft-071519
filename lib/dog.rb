@@ -19,6 +19,7 @@ class Dog
  end
  end
      def breed (breed)
-      puts "Hello, #{name}"
+      puts #{name}"
     end
+ 
  
