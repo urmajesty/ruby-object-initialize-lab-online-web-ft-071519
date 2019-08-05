@@ -9,5 +9,5 @@ class Person
     @name
   end
   
-  person = 
+  person = Person.new
   
