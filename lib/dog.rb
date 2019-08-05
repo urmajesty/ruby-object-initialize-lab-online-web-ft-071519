@@ -1,5 +1,5 @@
 class Dog
-  def initialize (name)
+  def initialize (name, breed)
     @name= name
   end
   def name= (name)
@@ -19,7 +19,7 @@ class Dog
  end
  end
      def breed (breed)
-      puts #{name}"
+      puts #{breed}"
     end
  
  
