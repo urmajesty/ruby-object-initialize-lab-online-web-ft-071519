@@ -18,4 +18,7 @@ class Dog
    @breed
  end
  end
+     def breed (breed)
+      puts "Hello, #{name}"
+    end
  
